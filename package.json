@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "node-telegram-bot-api": "^0.57.0"
+  },
+  "name": "telegrambotjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BohdanNikolaychuk/telegramBotJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BohdanNikolaychuk/telegramBotJS/issues"
+  },
+  "homepage": "https://github.com/BohdanNikolaychuk/telegramBotJS#readme",
+  "description": ""
+}
